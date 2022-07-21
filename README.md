@@ -56,6 +56,23 @@ ProfileActivity
 
 here we can update our profile.
 
+or in mainActivity we can chat with other users by clicking on card views.
+
+if click on card view chatActivity will open.
+
+chatActivity
+
+![Screenshot_1658424674](https://user-images.githubusercontent.com/53389760/180284034-612359ff-a404-42bc-87e0-3bf136f94e2c.png)
+
+#Conclusion
+
+in this project data store we used firebase.
+
+we create users using Firebase auth, auth.createuserwithemailandpassword();
+and store data in firebase realtime database.
+i also used firebase storage to store images.
+
+
 
 
 
